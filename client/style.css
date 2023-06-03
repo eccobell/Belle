@@ -28,7 +28,7 @@ body {
   height: 100%;
   overflow-y: auto;
 
-  display: flex;
+  display: inline-block;
   flex-direction: column;
   gap: 10px;
 
